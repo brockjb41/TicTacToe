@@ -9,9 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-//hahahhahahahhahahha
-    // You only wish you were funny...
-    //you stink like beef and cheese
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
